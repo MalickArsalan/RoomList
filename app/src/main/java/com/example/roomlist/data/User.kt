@@ -11,5 +11,5 @@ class User(
     val middleName :String,
     val lastName :String,
     val fatherName:String,
-    val gender: String
+
 )
